@@ -1,0 +1,7 @@
+{
+  "fraudDetectionDiagnosisRecord" : {},
+  "fraudDetectionNotificationActivityReference" : "FDNAR123",
+  "fraudDetectionOperatingSessionReference" : "FDOSR123",
+  "fraudDetectionNotificationActivityRecord" : {},
+  "productProductionSessionReference" : "PPSR123"
+}

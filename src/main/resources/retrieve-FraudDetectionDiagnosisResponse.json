@@ -1,0 +1,9 @@
+{
+  "fraudDetectionDiagnosisRecord" : {},
+  "fraudDetectionOperatingSessionReference" : "FDOS6985",
+  "fraudDetectionDiagnosisActivityReference" : "FDAR3025",
+  "productProductionSessionReference" : "PPSR3801",
+  "fraudDetectionDiagnosisActivityRecord" : {},
+  "fraudDetectionTransactionConsolidationRecord" : {},
+  "fraudDetectionAnalysisRecord" : {}
+}

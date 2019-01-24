@@ -1,0 +1,10 @@
+{
+  "fraudDetectionTransactionAnalysisActivityReference" : "FDTA6855",
+  "fraudDetectionProductionAnomalyRecord" : {},
+  "fraudDetectionOperatingSessionReference" : "FDOS6985",
+  "productProductionSessionReference" : "PPSR6254",
+  "fraudDetectionTransactionConsolidationRecord" : {},
+  "fraudDetectionProductionAnomalyProductionTransactionReference" : "FDPA7852",
+  "fraudDetectionAnalysisRecord" : {},
+  "fraudModelModelUsageGuidelines" : "Model usage 1"
+}

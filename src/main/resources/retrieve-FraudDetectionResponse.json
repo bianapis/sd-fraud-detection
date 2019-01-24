@@ -1,0 +1,8 @@
+{
+  "fraudDetectionOperatingSessionConfiguration" : "high load",
+  "fraudModelReference" : "FMR6985",
+  "fraudDetectionOperatingSessionReference" : "PSR4523",
+  "fraudDetectionOperatingSessionDateTime" : "09-22-2018",
+  "productProductionSessionReference" : "PSR4523",
+  "fraudDetectionOperatingSessionRecord" : {}
+}
